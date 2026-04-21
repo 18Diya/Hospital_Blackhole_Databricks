@@ -13,6 +13,7 @@ Built the pipeline that finds exactly where India's 3 million missing patients d
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+<img width="3000" height="3911" alt="Hospital Black Hole 2026-04-21 13_03_page-0001" src="https://github.com/user-attachments/assets/34606e60-6fb0-4bbd-a018-19c22af918df" />
 
 ---
 
